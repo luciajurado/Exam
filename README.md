@@ -13,7 +13,7 @@
 # ¿Quien soy?
 ## Soy lucia jurado, tengo 19 años, me encanta leer y aprender cosas nuevas, trabajo de camararera y ayudante de cocina desde hace un año y medio, me encantan la gente mayor que vienen allí y me cuentan su día mientras le llevo la tostada y el café, cojo cariño muy rápido pero la gente mayor es demasiado achuchable. Me encantan los animales tengo tres peritos y un gato que cuando le da su paranoya se vuelve un poco loco
 
-
+# ¿Que estudio?
 ## Estoy cursando el grado superior de ASIR en este [centro](https://ramonycajal.net/nuestro-centro/), y estudie el grado medio de Actividades comerciales.
 
 
